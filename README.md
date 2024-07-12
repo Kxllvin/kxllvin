@@ -21,11 +21,13 @@
 <!--[![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alan-Vasconi&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 </div>
 
-## Meu progresso em Roadmaps:
+## Meu progresso Roadmaps:
 <div align="center">
 
 [![roadmap.sh](https://roadmap.sh/card/wide/65ff8ce96deb533d6e1e4376?variant=dark)](https://roadmap.sh)
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=footer"/>
+
 <!--
 **Kxllvin/kxllvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,4 +43,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=footer"/>****
