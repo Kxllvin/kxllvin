@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
+<div align="center">
 
-## Oi eu sou o Kelvin! | Hi My name is Kelvin!
-
+# Oi eu sou o Kelvin! | Hi My name is Kelvin!
+</div>
 - I’m currently learning Java
 - Intermediate English
 - Becoming a Back-End Developer!
