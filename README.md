@@ -1,4 +1,10 @@
-## Hi there 👋
+## Oi eu sou o Kelvin! | Hi My name is Kelvin!
+
+- I’m currently learning Java
+
+## __________________
+## Meu progresso em Roadmaps:
+[![roadmap.sh](https://roadmap.sh/card/tall/65ff8ce96deb533d6e1e4376?variant=dark)](https://roadmap.sh)
 
 <!--
 **Kxllvin/kxllvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
