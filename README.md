@@ -1,24 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
 <div align="center">
 
-# Oi eu sou o Kelvin! | Hi My name is Kelvin!
-</div>
+# 👋 Olá, eu sou Kelvin Alves
 
-- ## 📌 Descrição
-Projeto desenvolvido com o objetivo de praticar conceitos fundamentais de Java, como lógica de programação, estruturas de controle, orientação a objetos e boas práticas.
+💻 Desenvolvedor Back-End em formação, com sólida experiência em TI corporativo e ambientes críticos.
 
-
-## 🛠️ Tecnologias Utilizadas
-- Java SE
-- IntelliJ IDEA / Eclipse (opcional)
-
-
-## 📚 Conceitos Praticados
-- Estruturas condicionais
-- Laços de repetição
-- Métodos e classes
-- Orientação a Objetos
-- Tratamento básico de exceções
+Atuo atualmente como **Analista de TI**, trabalhando com ITSM, gerenciamento de incidentes e suporte técnico, e estou em constante evolução para a área de **desenvolvimento de software**, com foco em **Java e APIs REST**.
+---
+## 🚀 Foco em Desenvolvimento
+- Java SE (fundamentos e orientação a objetos)
+- Spring Framework (conceitos iniciais)
+- Desenvolvimento de APIs REST
+- SQL e PL/SQL
+- Banco de dados relacionais
+---
+## 📚 Em aprendizado contínuo
+- Boas práticas de código
+- Estruturação de projetos back-end
+- Arquitetura de aplicações
+- Integração entre sistemas
+---
 
 <div align="center">
 
