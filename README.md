@@ -4,9 +4,21 @@
 # Oi eu sou o Kelvin! | Hi My name is Kelvin!
 </div>
 
-- I’m currently learning Java
-- Intermediate English
-- Becoming a Back-End Developer!
+- ## 📌 Descrição
+Projeto desenvolvido com o objetivo de praticar conceitos fundamentais de Java, como lógica de programação, estruturas de controle, orientação a objetos e boas práticas.
+
+
+## 🛠️ Tecnologias Utilizadas
+- Java SE
+- IntelliJ IDEA / Eclipse (opcional)
+
+
+## 📚 Conceitos Praticados
+- Estruturas condicionais
+- Laços de repetição
+- Métodos e classes
+- Orientação a Objetos
+- Tratamento básico de exceções
 
 <div align="center">
 
