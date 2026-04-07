@@ -1,37 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
-<<<<<<< HEAD
 
 <div align="center">
 
 # 👋 Olá, eu sou Kelvin Alves
-=======
-<div align="center">
-
-# 👋 Olá, eu sou Kelvin Alves
-
-💻 Desenvolvedor Back-End em formação, com sólida experiência em TI corporativo e ambientes críticos.
-
-Atuo atualmente como **Analista de TI**, trabalhando com ITSM, gerenciamento de incidentes e suporte técnico, e estou em constante evolução para a área de **desenvolvimento de software**, com foco em **Java e APIs REST**.
----
-## 🚀 Foco em Desenvolvimento
-- Java SE (fundamentos e orientação a objetos)
-- Spring Framework (conceitos iniciais)
-- Desenvolvimento de APIs REST
-- SQL e PL/SQL
-- Banco de dados relacionais
----
-## 📚 Em aprendizado contínuo
-- Boas práticas de código
-- Estruturação de projetos back-end
-- Arquitetura de aplicações
-- Integração entre sistemas
----
-
-<div align="center">
-
-## Conecte-se Comigo!
-<a href = "mailto:kelvintenor987@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/kelvin-alves-71454419b/)
->>>>>>> 2e3d8eeaabef3e5cf34b2b15665f6cc849ec02ff
 
 💻 Desenvolvedor Back-End em formação, com experiência prática em ambientes corporativos e sistemas críticos.
 
@@ -40,15 +11,14 @@ Estou em transição para **desenvolvimento de software**, com foco em **Java e 
 
 </div>
 
----
 
 ## 🚀 Foco em Desenvolvimento
 - Java (POO e fundamentos sólidos)
 - Spring Framework (em evolução)
 - Desenvolvimento de APIs REST
 - SQL e PL/SQL
+- Banco de dados relacionais
 
----
 
 ## 🧠 Experiência que agrega ao desenvolvimento
 
@@ -56,8 +26,6 @@ Estou em transição para **desenvolvimento de software**, com foco em **Java e 
 - 📊 Diagnóstico e resolução de problemas em sistemas corporativos
 - 🤝 Comunicação direta com cliente e levantamento de necessidades
 - ⚙️ Vivência com ambientes produtivos e sistemas críticos
-
----
 
 ## 📌 Projeto em destaque
 
@@ -83,7 +51,6 @@ Projeto desenvolvido para simular e resolver um problema real do dia a dia em TI
 
 👉 *[TicketManager](https://github.com/Kxllvin/ticketmanager)*
 
----
 
 ## 📈 Evolução
 
@@ -91,7 +58,6 @@ Projeto desenvolvido para simular e resolver um problema real do dia a dia em TI
 - 🎯 Próximo passo: APIs completas com Spring Boot
 - 🚀 Objetivo: atuar profissionalmente como desenvolvedor backend
 
----
 
 ## 🗺️ Meu progresso
 
@@ -100,8 +66,6 @@ Projeto desenvolvido para simular e resolver um problema real do dia a dia em TI
 [![roadmap.sh](https://roadmap.sh/card/wide/65ff8ce96deb533d6e1e4376?variant=dark)](https://roadmap.sh)
 
 </div>
-
----
 
 ## 🤝 Conecte-se comigo
 
